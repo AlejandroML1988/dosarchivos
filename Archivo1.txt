@@ -2,3 +2,5 @@ Este archivo está modificado
 Lo sigo modificando en mi área de trabajo, lo tendré que mandar otra vez al área de preparación
 
 Estoy probando la diapositiva 47 de clase.
+
+Funciona, también la diapositiva 48, cambio el commit.
