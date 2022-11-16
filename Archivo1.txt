@@ -4,3 +4,6 @@ Lo sigo modificando en mi área de trabajo, lo tendré que mandar otra vez al á
 Estoy probando la diapositiva 47 de clase.
 
 Funciona, también la diapositiva 48, cambio el commit.
+
+En este archivo estoy solucionando el problema del email,
+trabajando en la rama 'hotfix'.
