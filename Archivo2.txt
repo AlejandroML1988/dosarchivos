@@ -7,3 +7,6 @@ También pruebo la diapositiva 48.
 Funcionan ambas diapositivas cambio el commit.
 
 Estoy trabajando el la rama (branch) iss53 (diapositiva 64).
+Ahora ya he solucionado el problema del email, estoy trabajando
+en la diapositiva número 74. Ahora tendré que hacer un merge
+para fusionar esta rama iss53 con la rama master.
